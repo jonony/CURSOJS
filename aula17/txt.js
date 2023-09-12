@@ -38,7 +38,7 @@ const bolo1 = liquidificador('açucar mascavo, ', 'trigo caseiro, ', 'ovos caipi
     console.log(bolo1)
 
 const bolo2 = liquidificador(
-    'Outro trigo',
+    'Outro trigo', 
     'Outro açucar',
     '5 ovos',
     'fermento bio'
