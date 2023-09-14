@@ -18,3 +18,4 @@ let num1 = 9.83473843
 //(Math.random) Ele gera números aleatórios
 //const aleatorio = Math.round(Math.random() * (10 - 5)+5)
 
+
