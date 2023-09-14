@@ -8,3 +8,4 @@ let anoNascimento = 2023 - idade
 
 console.log(`${nome} ${sobrenome} tem ${idade} anos, pesa ${peso}kg, tem ${altura} de altura e seu IMC é de ${imc}. ${nome} ${sobrenome} nasceu em ${anoNascimento}`)
 
+
