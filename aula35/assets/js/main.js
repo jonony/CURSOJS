@@ -26,7 +26,6 @@ for(let i = 0; i < elementos.length; i++){
 }
 container.appendChild(div)
 
-
 /*Resumo
 
 1. Criei uma contante usando array, que nela vai estar recebendo objetos com textos, e com suas propiedades usando :
